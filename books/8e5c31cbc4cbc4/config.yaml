@@ -3,6 +3,7 @@ summary: "研究対象である分散システムの関連トピックを備忘�
 topics: []
 published: false
 price: 0
+allow_override: true
 toc_depth: 2
 chapters:
   - "7d52cb"
